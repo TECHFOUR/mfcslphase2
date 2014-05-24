@@ -1,0 +1,15 @@
+Region,"Outlet Name",Agent_Name,"Activity Status",01-Mar-14,02-Mar-14,03-Mar-14,04-Mar-14,05-Mar-14,06-Mar-14,07-Mar-14,"Grand Total"
+South,Ambattur,"N. VIJAYALAKSHMI","Appointment Booked",0,0,2,0,0,0,0,2
+,,,"Call Back",3,0,3,2,1,0,2,11
+,,,"Customer not Intrested",11,0,14,12,4,0,5,46
+,,,"Invalid Mobile Number",18,0,3,2,24,0,6,53
+,,,"Mobile not Reachable OR Switched Off",17,0,14,23,16,0,10,80
+,,,"Vehicle Sold",2,0,2,0,0,0,0,4
+,,,"Wrong Mobile Number",5,0,2,2,3,0,0,12
+,,,"Total No of Calls",56,0,40,41,48,0,23,208
+,,,"Total No Of Contactable",21,0,23,16,8,0,7,75
+,,,"Total No of Non-Contactable",35,0,17,25,40,0,16,133
+,,,"Total No of Vehicles Received",0,0,0,0,0,0,0,0
+,,,"Contactable %",37.50,0.00,57.50,39.02,16.67,0.00,30.43,36.06
+,,,"Non-Contactable %",62.50,0.00,42.50,60.98,83.33,0.00,69.57,63.94
+,,,"Total Conversions %",0,0,0,0,0,0,0,0
